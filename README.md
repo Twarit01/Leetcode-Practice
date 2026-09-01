@@ -11,3 +11,5 @@ Auto-synced by LeetCode to GitHub Sync.
 | # | Title | Difficulty | Tags | Status |
 | --- | --- | --- | --- | --- |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | Hash Table, Math, String | ✅ Accepted |<!-- id:roman-to-integer -->
+| 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | String, Stack, Greedy, Monotonic Stack | ✅ Accepted |<!-- id:remove-k-digits -->
+
