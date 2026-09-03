@@ -136,6 +136,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | Array, Linked List, Design, Queue | ✅ Accepted |<!-- id:design-circular-queue -->
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | Array, Breadth-First Search, Matrix | ✅ Accepted |<!-- id:rotting-oranges -->
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:symmetric-tree -->
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | ✅ Accepted |<!-- id:balanced-binary-tree -->
+
 
 
 
