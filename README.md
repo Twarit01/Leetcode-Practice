@@ -44,6 +44,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | Easy | Database | ✅ Accepted |<!-- id:sales-person -->
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | Medium | Database | ✅ Accepted |<!-- id:tree-node -->
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | Database | ✅ Accepted |<!-- id:triangle-judgement -->
+| 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | Easy | Database | ✅ Accepted |<!-- id:biggest-single-number -->
+
 
 
 
