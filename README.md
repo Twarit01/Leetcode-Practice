@@ -42,6 +42,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | Database | ✅ Accepted |<!-- id:human-traffic-of-stadium -->
 | 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Medium | Database | ✅ Accepted |<!-- id:friend-requests-ii-who-has-the-most-friends -->
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | Easy | Database | ✅ Accepted |<!-- id:sales-person -->
+| 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | Medium | Database | ✅ Accepted |<!-- id:tree-node -->
+
 
 
 
