@@ -111,6 +111,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | Array, Hash Table | ✅ Accepted |<!-- id:find-all-numbers-disappeared-in-an-array -->
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | Easy | Array, Hash Table | ✅ Accepted |<!-- id:find-common-elements-between-two-arrays -->
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy | Array, Prefix Sum | ✅ Accepted |<!-- id:left-and-right-sum-differences -->
+| 3159 | [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/) | Medium | Array, Hash Table | ✅ Accepted |<!-- id:find-occurrences-of-an-element-in-an-array -->
+
 
 
 
