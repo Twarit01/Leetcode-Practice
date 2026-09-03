@@ -106,6 +106,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy | Array | ✅ Accepted |<!-- id:replace-elements-with-greatest-element-on-right-side -->
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Array, Two Pointers | ✅ Accepted |<!-- id:move-zeroes -->
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | Array, Two Pointers, Sorting | ✅ Accepted |<!-- id:sort-array-by-parity -->
+| 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | Easy | Array, Sorting, Counting Sort, Bubble Sort | ✅ Accepted |<!-- id:height-checker -->
+
 
 
 
