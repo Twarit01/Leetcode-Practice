@@ -34,6 +34,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | Database | ✅ Accepted |<!-- id:big-countries -->
 | 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | Database | ✅ Accepted |<!-- id:game-play-analysis-iv -->
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | Database | ✅ Accepted |<!-- id:managers-with-at-least-5-direct-reports -->
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | Database | ✅ Accepted |<!-- id:employee-bonus -->
+
 
 
 
