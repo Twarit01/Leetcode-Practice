@@ -161,6 +161,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | Hash Table, Linked List, Two Pointers | ✅ Accepted |<!-- id:intersection-of-two-linked-lists -->
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | Linked List | ✅ Accepted |<!-- id:delete-node-in-a-linked-list -->
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | Linked List, Recursion | ✅ Accepted |<!-- id:swap-nodes-in-pairs -->
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | Linked List | ✅ Accepted |<!-- id:reverse-linked-list-ii -->
+
 
 
 
