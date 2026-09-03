@@ -154,6 +154,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy | Array, Math | ✅ Accepted |<!-- id:add-to-array-form-of-integer -->
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | Array, Dynamic Programming | ✅ Accepted |<!-- id:pascals-triangle -->
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | ✅ Accepted |<!-- id:majority-element -->
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting | ✅ Accepted |<!-- id:missing-number -->
+
 
 
 
