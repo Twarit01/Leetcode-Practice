@@ -28,6 +28,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | Database | ✅ Accepted |<!-- id:department-highest-salary -->
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | Hard | Database | ✅ Accepted |<!-- id:department-top-three-salaries -->
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | Database | ✅ Accepted |<!-- id:delete-duplicate-emails -->
+| 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | Database | ✅ Accepted |<!-- id:trips-and-users -->
+
 
 
 
