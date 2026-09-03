@@ -23,6 +23,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | Database | ✅ Accepted |<!-- id:rank-scores -->
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | Database | ✅ Accepted |<!-- id:consecutive-numbers -->
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | Database | ✅ Accepted |<!-- id:employees-earning-more-than-their-managers -->
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | Database | ✅ Accepted |<!-- id:duplicate-emails -->
+
 
 
 
