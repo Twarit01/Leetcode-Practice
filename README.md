@@ -74,6 +74,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | Easy | Database | ✅ Accepted |<!-- id:patients-with-a-condition -->
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | Easy | Database | ✅ Accepted |<!-- id:bank-account-summary-ii -->
 | 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | Easy | Database | ✅ Accepted |<!-- id:percentage-of-users-attended-a-contest -->
+| 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | Easy | Database | ✅ Accepted |<!-- id:average-time-of-process-per-machine -->
+
 
 
 
