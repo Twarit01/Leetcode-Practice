@@ -155,6 +155,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | Array, Dynamic Programming | ✅ Accepted |<!-- id:pascals-triangle -->
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | ✅ Accepted |<!-- id:majority-element -->
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting | ✅ Accepted |<!-- id:missing-number -->
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | Array, Prefix Sum | ✅ Accepted |<!-- id:find-pivot-index -->
+
 
 
 
