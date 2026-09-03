@@ -39,6 +39,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | Medium | Database | ✅ Accepted |<!-- id:investments-in-2016 -->
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy | Database | ✅ Accepted |<!-- id:customer-placing-the-largest-number-of-orders -->
 | 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | Easy | Database | ✅ Accepted |<!-- id:classes-with-at-least-5-students -->
+| 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | Database | ✅ Accepted |<!-- id:human-traffic-of-stadium -->
+
 
 
 
