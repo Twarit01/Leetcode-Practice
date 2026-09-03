@@ -21,6 +21,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium | Database | ✅ Accepted |<!-- id:second-highest-salary -->
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | Database | ✅ Accepted |<!-- id:nth-highest-salary -->
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | Database | ✅ Accepted |<!-- id:rank-scores -->
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | Database | ✅ Accepted |<!-- id:consecutive-numbers -->
+
 
 
 
