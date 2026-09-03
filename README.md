@@ -81,6 +81,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | Easy | Database | ✅ Accepted |<!-- id:find-followers-count -->
 | 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | Easy | Database | ✅ Accepted |<!-- id:the-number-of-employees-which-report-to-each-employee -->
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | Database | ✅ Accepted |<!-- id:customer-who-visited-but-did-not-make-any-transactions -->
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | Easy | Database | ✅ Accepted |<!-- id:number-of-unique-subjects-taught-by-each-teacher -->
+
 
 
 
