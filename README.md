@@ -85,6 +85,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | Easy | Database | ✅ Accepted |<!-- id:employees-with-missing-information -->
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | Medium | Database | ✅ Accepted |<!-- id:confirmation-rate -->
 | 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | Medium | Database | ✅ Accepted |<!-- id:count-salary-categories -->
+| 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | Easy | Database | ✅ Accepted |<!-- id:the-latest-login-in-2020 -->
+
 
 
 
