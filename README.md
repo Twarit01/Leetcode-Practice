@@ -20,6 +20,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | Database | ✅ Accepted |<!-- id:combine-two-tables -->
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium | Database | ✅ Accepted |<!-- id:second-highest-salary -->
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | Database | ✅ Accepted |<!-- id:nth-highest-salary -->
+| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | Database | ✅ Accepted |<!-- id:rank-scores -->
+
 
 
 
