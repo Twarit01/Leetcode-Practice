@@ -62,6 +62,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | Medium | Database | ✅ Accepted |<!-- id:monthly-transactions-i -->
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | Easy | Database | ✅ Accepted |<!-- id:sales-analysis-iii -->
 | 1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | Medium | Database | ✅ Accepted |<!-- id:last-person-to-fit-in-the-bus -->
+| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | Easy | Database | ✅ Accepted |<!-- id:queries-quality-and-percentage -->
+
 
 
 
