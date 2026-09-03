@@ -115,6 +115,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | Array, Hash Table | ✅ Accepted |<!-- id:find-the-difference-of-two-arrays -->
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | Easy | Design, Simulation, Counting | ✅ Accepted |<!-- id:design-parking-system -->
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | Stack, Design | ✅ Accepted |<!-- id:min-stack -->
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | Stack, Design, Queue | ✅ Accepted |<!-- id:implement-queue-using-stacks -->
+
 
 
 
