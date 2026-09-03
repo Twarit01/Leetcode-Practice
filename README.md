@@ -60,6 +60,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | Database | ✅ Accepted |<!-- id:immediate-food-delivery-ii -->
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | Easy | Database | ✅ Accepted |<!-- id:reformat-department-table -->
 | 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | Medium | Database | ✅ Accepted |<!-- id:monthly-transactions-i -->
+| 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | Easy | Database | ✅ Accepted |<!-- id:sales-analysis-iii -->
+
 
 
 
