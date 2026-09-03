@@ -54,6 +54,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | Medium | Database | ✅ Accepted |<!-- id:product-sales-analysis-iii -->
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | Easy | Database | ✅ Accepted |<!-- id:project-employees-i -->
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | Database | ✅ Accepted |<!-- id:user-activity-for-the-past-30-days-i -->
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | Database | ✅ Accepted |<!-- id:article-views-i -->
+
 
 
 
