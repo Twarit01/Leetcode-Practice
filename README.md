@@ -137,6 +137,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | Array, Breadth-First Search, Matrix | ✅ Accepted |<!-- id:rotting-oranges -->
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:symmetric-tree -->
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | ✅ Accepted |<!-- id:balanced-binary-tree -->
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:merge-two-binary-trees -->
+
 
 
 
