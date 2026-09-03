@@ -105,6 +105,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | Easy | Array | ✅ Accepted |<!-- id:valid-mountain-array -->
 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy | Array | ✅ Accepted |<!-- id:replace-elements-with-greatest-element-on-right-side -->
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Array, Two Pointers | ✅ Accepted |<!-- id:move-zeroes -->
+| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | Array, Two Pointers, Sorting | ✅ Accepted |<!-- id:sort-array-by-parity -->
+
 
 
 
