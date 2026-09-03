@@ -84,6 +84,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | Easy | Database | ✅ Accepted |<!-- id:number-of-unique-subjects-taught-by-each-teacher -->
 | 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | Easy | Database | ✅ Accepted |<!-- id:employees-with-missing-information -->
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | Medium | Database | ✅ Accepted |<!-- id:confirmation-rate -->
+| 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | Medium | Database | ✅ Accepted |<!-- id:count-salary-categories -->
+
 
 
 
