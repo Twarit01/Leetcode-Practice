@@ -139,6 +139,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | ✅ Accepted |<!-- id:balanced-binary-tree -->
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:merge-two-binary-trees -->
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Medium | Array, Stack, Simulation | ✅ Accepted |<!-- id:build-an-array-with-stack-operations -->
+| 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | Array, Stack, Simulation | ✅ Accepted |<!-- id:validate-stack-sequences -->
+
 
 
 
