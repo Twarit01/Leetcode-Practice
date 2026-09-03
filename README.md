@@ -43,6 +43,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Medium | Database | ✅ Accepted |<!-- id:friend-requests-ii-who-has-the-most-friends -->
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | Easy | Database | ✅ Accepted |<!-- id:sales-person -->
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | Medium | Database | ✅ Accepted |<!-- id:tree-node -->
+| 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | Database | ✅ Accepted |<!-- id:triangle-judgement -->
+
 
 
 
