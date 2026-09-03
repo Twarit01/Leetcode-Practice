@@ -149,6 +149,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Array, Binary Search | ✅ Accepted |<!-- id:search-insert-position -->
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | ✅ Accepted |<!-- id:best-time-to-buy-and-sell-stock -->
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array, Hash Table, Sorting | ✅ Accepted |<!-- id:contains-duplicate -->
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | Array | ✅ Accepted |<!-- id:kids-with-the-greatest-number-of-candies -->
+
 
 
 
