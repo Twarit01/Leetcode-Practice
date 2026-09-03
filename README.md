@@ -70,6 +70,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | Database | ✅ Accepted |<!-- id:replace-employee-id-with-the-unique-identifier -->
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | Medium | Database | ✅ Accepted |<!-- id:capital-gainloss -->
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy | Database | ✅ Accepted |<!-- id:top-travellers -->
+| 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | Easy | Database | ✅ Accepted |<!-- id:group-sold-products-by-the-date -->
+
 
 
 
