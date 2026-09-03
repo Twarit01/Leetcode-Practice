@@ -99,6 +99,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | Array, Two Pointers, Sorting | ✅ Accepted |<!-- id:squares-of-a-sorted-array -->
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | Easy | Array, Two Pointers | ✅ Accepted |<!-- id:duplicate-zeros -->
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array, Two Pointers, Sorting | ✅ Accepted |<!-- id:merge-sorted-array -->
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Array, Two Pointers | ✅ Accepted |<!-- id:remove-element -->
+
 
 
 
