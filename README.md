@@ -67,6 +67,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | Database | ✅ Accepted |<!-- id:restaurant-growth -->
 | 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | Easy | Database | ✅ Accepted |<!-- id:list-the-products-ordered-in-a-period -->
 | 1341 | [Movie Rating](https://leetcode.com/problems/movie-rating/) | Medium | Database | ✅ Accepted |<!-- id:movie-rating -->
+| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | Database | ✅ Accepted |<!-- id:replace-employee-id-with-the-unique-identifier -->
+
 
 
 
