@@ -129,6 +129,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | Linked List, Two Pointers | ✅ Accepted |<!-- id:remove-nth-node-from-end-of-list -->
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | ✅ Accepted |<!-- id:linked-list-cycle-ii -->
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | Linked List, Recursion | ✅ Accepted |<!-- id:reverse-nodes-in-k-group -->
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | String | ✅ Accepted |<!-- id:length-of-last-word -->
+
 
 
 
