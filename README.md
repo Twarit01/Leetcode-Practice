@@ -91,6 +91,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | Easy | Database | ✅ Accepted |<!-- id:primary-department-for-each-employee -->
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Database | ✅ Accepted |<!-- id:recyclable-and-low-fat-products -->
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | Easy | Database | ✅ Accepted |<!-- id:find-total-time-spent-by-each-employee -->
+| 1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | Easy | Database | ✅ Accepted |<!-- id:employees-whose-manager-left-the-company -->
+
 
 
 
