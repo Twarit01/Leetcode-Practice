@@ -16,6 +16,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array, Hash Table | ✅ Accepted |<!-- id:two-sum -->
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | ✅ Accepted |<!-- id:palindrome-number -->
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Array, Two Pointers, Greedy | ✅ Accepted |<!-- id:container-with-most-water -->
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Array, Two Pointers, Sorting | ✅ Accepted |<!-- id:3sum -->
+
 
 
 
