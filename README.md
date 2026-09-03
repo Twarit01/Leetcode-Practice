@@ -113,6 +113,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy | Array, Prefix Sum | ✅ Accepted |<!-- id:left-and-right-sum-differences -->
 | 3159 | [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/) | Medium | Array, Hash Table | ✅ Accepted |<!-- id:find-occurrences-of-an-element-in-an-array -->
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | Array, Hash Table | ✅ Accepted |<!-- id:find-the-difference-of-two-arrays -->
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | Easy | Design, Simulation, Counting | ✅ Accepted |<!-- id:design-parking-system -->
+
 
 
 
