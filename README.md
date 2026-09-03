@@ -162,6 +162,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | Linked List | ✅ Accepted |<!-- id:delete-node-in-a-linked-list -->
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | Linked List, Recursion | ✅ Accepted |<!-- id:swap-nodes-in-pairs -->
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | Linked List | ✅ Accepted |<!-- id:reverse-linked-list-ii -->
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math, Recursion | ✅ Accepted |<!-- id:add-two-numbers -->
+
 
 
 
