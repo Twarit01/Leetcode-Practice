@@ -49,6 +49,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | Medium | Database | ✅ Accepted |<!-- id:exchange-seats -->
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | Easy | Database | ✅ Accepted |<!-- id:swap-sex-of-employees -->
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | Medium | Database | ✅ Accepted |<!-- id:customers-who-bought-all-products -->
+| 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | Easy | Database | ✅ Accepted |<!-- id:actors-and-directors-who-cooperated-at-least-three-times -->
+
 
 
 
