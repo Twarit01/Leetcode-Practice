@@ -152,6 +152,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | Array | ✅ Accepted |<!-- id:kids-with-the-greatest-number-of-candies -->
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | Array, Stack, Simulation | ✅ Accepted |<!-- id:baseball-game -->
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy | Array, Math | ✅ Accepted |<!-- id:add-to-array-form-of-integer -->
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | Array, Dynamic Programming | ✅ Accepted |<!-- id:pascals-triangle -->
+
 
 
 
