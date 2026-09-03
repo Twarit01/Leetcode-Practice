@@ -140,6 +140,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:merge-two-binary-trees -->
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Medium | Array, Stack, Simulation | ✅ Accepted |<!-- id:build-an-array-with-stack-operations -->
 | 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | Array, Stack, Simulation | ✅ Accepted |<!-- id:validate-stack-sequences -->
+| 895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard | Hash Table, Stack, Design, Ordered Set | ✅ Accepted |<!-- id:maximum-frequency-stack -->
+
 
 
 
