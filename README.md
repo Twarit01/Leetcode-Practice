@@ -116,6 +116,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | Easy | Design, Simulation, Counting | ✅ Accepted |<!-- id:design-parking-system -->
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | Stack, Design | ✅ Accepted |<!-- id:min-stack -->
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | Stack, Design, Queue | ✅ Accepted |<!-- id:implement-queue-using-stacks -->
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Linked List, Recursion | ✅ Accepted |<!-- id:reverse-linked-list -->
+
 
 
 
