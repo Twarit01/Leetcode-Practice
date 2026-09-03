@@ -32,6 +32,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | Easy | Database | ✅ Accepted |<!-- id:game-play-analysis-i -->
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | Database | ✅ Accepted |<!-- id:rising-temperature -->
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | Database | ✅ Accepted |<!-- id:big-countries -->
+| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | Database | ✅ Accepted |<!-- id:game-play-analysis-iv -->
+
 
 
 
