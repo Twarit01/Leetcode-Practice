@@ -147,6 +147,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | ✅ Accepted |<!-- id:linked-list-cycle -->
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | Linked List | ✅ Accepted |<!-- id:remove-duplicates-from-sorted-list -->
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Array, Binary Search | ✅ Accepted |<!-- id:search-insert-position -->
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | ✅ Accepted |<!-- id:best-time-to-buy-and-sell-stock -->
+
 
 
 
