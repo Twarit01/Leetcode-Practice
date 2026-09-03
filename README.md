@@ -61,6 +61,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | Easy | Database | ✅ Accepted |<!-- id:reformat-department-table -->
 | 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | Medium | Database | ✅ Accepted |<!-- id:monthly-transactions-i -->
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | Easy | Database | ✅ Accepted |<!-- id:sales-analysis-iii -->
+| 1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | Medium | Database | ✅ Accepted |<!-- id:last-person-to-fit-in-the-bus -->
+
 
 
 
