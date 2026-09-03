@@ -64,6 +64,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | Medium | Database | ✅ Accepted |<!-- id:last-person-to-fit-in-the-bus -->
 | 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | Easy | Database | ✅ Accepted |<!-- id:queries-quality-and-percentage -->
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | Database | ✅ Accepted |<!-- id:students-and-examinations -->
+| 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | Database | ✅ Accepted |<!-- id:restaurant-growth -->
+
 
 
 
