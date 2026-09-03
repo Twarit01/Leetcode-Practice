@@ -141,6 +141,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Medium | Array, Stack, Simulation | ✅ Accepted |<!-- id:build-an-array-with-stack-operations -->
 | 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | Array, Stack, Simulation | ✅ Accepted |<!-- id:validate-stack-sequences -->
 | 895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard | Hash Table, Stack, Design, Ordered Set | ✅ Accepted |<!-- id:maximum-frequency-stack -->
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | ✅ Accepted |<!-- id:sliding-window-maximum -->
+
 
 
 
