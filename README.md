@@ -145,6 +145,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees | ✅ Accepted |<!-- id:binary-tree-maximum-path-sum -->
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | ✅ Accepted |<!-- id:sort-colors -->
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | ✅ Accepted |<!-- id:linked-list-cycle -->
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | Linked List | ✅ Accepted |<!-- id:remove-duplicates-from-sorted-list -->
+
 
 
 
