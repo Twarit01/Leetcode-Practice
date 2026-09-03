@@ -133,6 +133,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array, Math | ✅ Accepted |<!-- id:plus-one -->
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | Design, Queue, Data Stream | ✅ Accepted |<!-- id:number-of-recent-calls -->
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | Stack, Design, Queue | ✅ Accepted |<!-- id:implement-stack-using-queues -->
+| 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | Array, Linked List, Design, Queue | ✅ Accepted |<!-- id:design-circular-queue -->
+
 
 
 
