@@ -48,6 +48,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | Database | ✅ Accepted |<!-- id:not-boring-movies -->
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | Medium | Database | ✅ Accepted |<!-- id:exchange-seats -->
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | Easy | Database | ✅ Accepted |<!-- id:swap-sex-of-employees -->
+| 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | Medium | Database | ✅ Accepted |<!-- id:customers-who-bought-all-products -->
+
 
 
 
