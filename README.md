@@ -56,6 +56,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | Database | ✅ Accepted |<!-- id:user-activity-for-the-past-30-days-i -->
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | Database | ✅ Accepted |<!-- id:article-views-i -->
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | Medium | Database | ✅ Accepted |<!-- id:market-analysis-i -->
+| 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | Medium | Database | ✅ Accepted |<!-- id:product-price-at-a-given-date -->
+
 
 
 
