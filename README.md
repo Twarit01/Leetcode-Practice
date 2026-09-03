@@ -69,6 +69,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1341 | [Movie Rating](https://leetcode.com/problems/movie-rating/) | Medium | Database | ✅ Accepted |<!-- id:movie-rating -->
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | Database | ✅ Accepted |<!-- id:replace-employee-id-with-the-unique-identifier -->
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | Medium | Database | ✅ Accepted |<!-- id:capital-gainloss -->
+| 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy | Database | ✅ Accepted |<!-- id:top-travellers -->
+
 
 
 
