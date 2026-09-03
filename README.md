@@ -58,6 +58,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | Medium | Database | ✅ Accepted |<!-- id:market-analysis-i -->
 | 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | Medium | Database | ✅ Accepted |<!-- id:product-price-at-a-given-date -->
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | Database | ✅ Accepted |<!-- id:immediate-food-delivery-ii -->
+| 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | Easy | Database | ✅ Accepted |<!-- id:reformat-department-table -->
+
 
 
 
