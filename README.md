@@ -96,6 +96,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | Easy | Database | ✅ Accepted |<!-- id:average-selling-price -->
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | Array | ✅ Accepted |<!-- id:max-consecutive-ones -->
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | Array, Math | ✅ Accepted |<!-- id:find-numbers-with-even-number-of-digits -->
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | Array, Two Pointers, Sorting | ✅ Accepted |<!-- id:squares-of-a-sorted-array -->
+
 
 
 
