@@ -176,6 +176,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Hash Table, String, Queue, Counting | ✅ Accepted |<!-- id:first-unique-character-in-a-string -->
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | Medium | Array, Hash Table | ✅ Accepted |<!-- id:4sum-ii -->
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | Array, Hash Table, Prefix Sum | ✅ Accepted |<!-- id:subarray-sum-equals-k -->
+| 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | Easy | Array, Hash Table, String | ✅ Accepted |<!-- id:minimum-index-sum-of-two-lists -->
+
 
 
 
