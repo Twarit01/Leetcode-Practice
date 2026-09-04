@@ -172,6 +172,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array, Hash Table, String, Sorting | ✅ Accepted |<!-- id:group-anagrams -->
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | Hash Table, String | ✅ Accepted |<!-- id:isomorphic-strings -->
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Hash Table, String, Sorting | ✅ Accepted |<!-- id:valid-anagram -->
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | Hash Table, String | ✅ Accepted |<!-- id:word-pattern -->
+
 
 
 
