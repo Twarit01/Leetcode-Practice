@@ -174,6 +174,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Hash Table, String, Sorting | ✅ Accepted |<!-- id:valid-anagram -->
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | Hash Table, String | ✅ Accepted |<!-- id:word-pattern -->
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Hash Table, String, Queue, Counting | ✅ Accepted |<!-- id:first-unique-character-in-a-string -->
+| 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | Medium | Array, Hash Table | ✅ Accepted |<!-- id:4sum-ii -->
+
 
 
 
